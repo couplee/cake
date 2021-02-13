@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-02-13T01:07:21.566Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="a4VfIHT99zUQY51M8fK1" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-13T03:08:27.351Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="sZE6IfbDpdTIqwdFtSfn" version="14.3.1" type="github">
   <diagram id="tSMaDPSG_NFxR9K5SJ_2" name="Page-1">
-    <mxGraphModel dx="827" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ISeB7mWLumaq7uImgFsu-5" value="顧客" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+        <mxCell id="ISeB7mWLumaq7uImgFsu-5" value="会員" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="10" width="210" height="360" as="geometry">
             <mxRectangle x="70" y="100" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -87,7 +87,7 @@
         <mxCell id="ISeB7mWLumaq7uImgFsu-87" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-86">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ISeB7mWLumaq7uImgFsu-88" value="ユーザーステータス(退会してるか)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-86">
+        <mxCell id="ISeB7mWLumaq7uImgFsu-88" value="会員ステータス" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-86">
           <mxGeometry x="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ISeB7mWLumaq7uImgFsu-89" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-5">
@@ -210,7 +210,7 @@
         <mxCell id="ISeB7mWLumaq7uImgFsu-236" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-235">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ISeB7mWLumaq7uImgFsu-237" value="顧客id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-235">
+        <mxCell id="ISeB7mWLumaq7uImgFsu-237" value="会員id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-235">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ISeB7mWLumaq7uImgFsu-238" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-35">
@@ -250,7 +250,7 @@
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ISeB7mWLumaq7uImgFsu-48" value="注文" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="405" width="180" height="425" as="geometry" />
+          <mxGeometry x="90" y="400" width="180" height="425" as="geometry" />
         </mxCell>
         <mxCell id="ISeB7mWLumaq7uImgFsu-49" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-48">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -267,7 +267,7 @@
         <mxCell id="ISeB7mWLumaq7uImgFsu-242" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-241">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ISeB7mWLumaq7uImgFsu-243" value="顧客id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-241">
+        <mxCell id="ISeB7mWLumaq7uImgFsu-243" value="会員id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-241">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ISeB7mWLumaq7uImgFsu-176" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-48">
@@ -387,7 +387,7 @@
         <mxCell id="ISeB7mWLumaq7uImgFsu-229" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-228">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ISeB7mWLumaq7uImgFsu-230" value="顧客id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-228">
+        <mxCell id="ISeB7mWLumaq7uImgFsu-230" value="会員id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-228">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ISeB7mWLumaq7uImgFsu-65" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ISeB7mWLumaq7uImgFsu-61">
